@@ -11,3 +11,4 @@
 
 - **Binary Search**
     - Single Element in a Sorted Array | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search/1_Single_Element_Sorted_Array.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Find Peak Element | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search/2_Peak_Element.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-peak-element/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
