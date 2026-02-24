@@ -20,3 +20,7 @@
 - **Linked List**
     - Reverse Linked List | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Linked_List/1_Reverse_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reverse-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Merge Two Sorted Lists | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Linked_List/2_Merge_two_sorted_lists.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/merge-two-sorted-lists/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    
+- **Binary Tree**
+    - Binary Tree Inorder Traversal | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Tree/1_Inorder_Traversal.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Binary Tree Preorder Traversal | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Linked_List/2_Preorder_Traversal.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
