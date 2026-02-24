@@ -16,3 +16,7 @@
 - **Prefix Sum**
     - Minimum Size Subarray Sum | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Prefix_Sum/1_Minimum_Subarray_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=prefix-sum" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Random Point in Non-overlapping Rectangles | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Prefix_Sum/2_Rectangle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/?envType=problem-list-v2&envId=prefix-sum" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+- **Linked List**
+    - Reverse Linked List | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Linked_List/1_Reverse_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reverse-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Merge Two Sorted Lists | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Linked_List/2_Merge_two_sorted_lists.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/merge-two-sorted-lists/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
