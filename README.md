@@ -28,3 +28,15 @@
 - **Binary Search Tree**
     - Convert Sorted Array to Binary Search Tree | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search_Tree/1_Convert_Sorted_Array_BST.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=problem-list-v2&envId=binary-search-tree" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Find Mode in Binary Search Tree | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search_Tree/2_Find_Mode_BST.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/description/?envType=problem-list-v2&envId=binary-search-tree" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+- **Heap**
+    - Kth Largest Element in a Stream | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/1_kth_largest_element.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Last Stone Weight | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/2_last_stone_weight.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/last-stone-weight/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+- **Backtracking**
+    - Subsets | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/1_Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Last Stone Weight | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/2_Combination_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/combination-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+
+    
