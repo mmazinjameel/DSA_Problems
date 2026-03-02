@@ -35,7 +35,11 @@
 
 - **Backtracking**
     - Subsets | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/1_Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-    - Last Stone Weight | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/2_Combination_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/combination-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Combination Sum | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Heap_Queue/2_Combination_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/combination-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    
+- **Graphs**
+    - Island Perimeter | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Graphs/1_Island_Perimeter.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/island-perimeter/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Verifying an Alien Dictionary | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Graphs/2_Alien_Dictionary.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
