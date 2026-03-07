@@ -41,9 +41,13 @@
     - Island Perimeter | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Graphs/1_Island_Perimeter.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/island-perimeter/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Verifying an Alien Dictionary | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Graphs/2_Alien_Dictionary.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
         
-- **1D_Dynamic_Programming**
+- **1D Dynamic_Programming**
     - Min Cost Climbing Stairs | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/1D_Dynamic_Programming/1_Min_Cost_Climbing_Stairs.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Climbing Stairs | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/1D_Dynamic_Programming/2_Climbing_Stairs.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/climbing-stairs/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+        
+- **2D Dynamic_Programming**
+    - Unique Paths | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/2D_Dynamic_Programming/1_Unique_Paths.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/unique-paths/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Unique Paths II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/2D_Dynamic_Programming/2_Unique_Paths_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/unique-paths-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
