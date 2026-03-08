@@ -48,6 +48,10 @@
 - **2D Dynamic_Programming**
     - Unique Paths | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/2D_Dynamic_Programming/1_Unique_Paths.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/unique-paths/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Unique Paths II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/2D_Dynamic_Programming/2_Unique_Paths_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/unique-paths-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+            
+- **Greedy**
+    - Buy Two Chocolates | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/1_Buy_Two_Chocolates.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/buy-two-chocolates/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Unique Paths II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/2_Lemonade_Change.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/lemonade-change/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
