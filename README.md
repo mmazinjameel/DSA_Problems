@@ -11,6 +11,10 @@
     - Two Sum II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/3_Two_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - 3Sum | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Two_Pointers/4_3Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/3sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
+- **Sliding Window**
+    - Alternating Groups II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Sliding_Window/1_Alternating_Groups_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/alternating-groups-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Longest Substring Without Repeating Characters | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Sliding_Window/2_Longest_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
 - **Binary Search**
     - Single Element in a Sorted Array | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search/1_Single_Element_Sorted_Array.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Find Peak Element | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Binary_Search/2_Peak_Element.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-peak-element/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
