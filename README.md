@@ -62,7 +62,7 @@
             
 - **Greedy**
     - Buy Two Chocolates | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/1_Buy_Two_Chocolates.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/buy-two-chocolates/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-    - Unique Paths II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/2_Lemonade_Change.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/lemonade-change/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Lemonade Change | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/2_Lemonade_Change.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/lemonade-change/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
