@@ -4,6 +4,8 @@
 - **Array**
     - Maximum Distance in Arrays | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/1_Maximum_Distance.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Group Anagrams | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/2_Group_Anagrams.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/group-anagrams/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Average Waiting Time | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/3_Average_Waiting_time.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/average-waiting-time/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Count Vowel Strings in Ranges | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/4_Count_Vowel_Strings_in_Ranges.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 - **Two Pointers**
     - Adding Spaces to a String | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/1_Adding_Spaces_to_a_String.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/adding-spaces-to-a-string/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
