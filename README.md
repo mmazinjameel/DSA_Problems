@@ -128,6 +128,9 @@
     - Jump Game | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/21_Jump_Game.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Minimum Number of Pushes to Type Word II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/22_Min_Pushes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Maximum Points You Can Obtain from Cards | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/23_Max_Points_From_Cards.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Merge Triplets to Form Target Triplet | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/24_Merge_Triplets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Partition Labels | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/25_Partition_Labels.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/partition-labels/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
 
 
     
