@@ -27,6 +27,7 @@
     - Continuous Subarray Sum | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/25_Continuous.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/continuous-subarray-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Repeated DNA Sequences | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/26_Repeated.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/repeated-dna-sequences/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Check If a String Contains All Binary Codes of Size K | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/27_Check_Binary.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Search in a Rotated Sorted Array | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/28_Search_Rotated.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=daily-question&envId=2026-05-22" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Two Pointers**
