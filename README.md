@@ -113,6 +113,7 @@
     - Splitting a String Into Descending Consecutive Values | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Backtracking/16_Splitting.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>  
     - Different Ways to Add Parentheses | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Backtracking/18_Different_Ways.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/different-ways-to-add-parentheses/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>  
     - The Number of Beautiful Subsets | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Backtracking/19_Beautiful_Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>  
+    - Construct the Lexicographically Largest Valid Sequence | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Backtracking/20_Construct_Lex.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>  
 
 
 - **Graphs**
