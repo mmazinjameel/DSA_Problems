@@ -28,6 +28,8 @@
     - Repeated DNA Sequences | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/26_Repeated.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/repeated-dna-sequences/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Check If a String Contains All Binary Codes of Size K | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/27_Check_Binary.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Search in a Rotated Sorted Array | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/28_Search_Rotated.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=daily-question&envId=2026-05-22" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Text Justification | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/29_Text_Justification.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/text-justification/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Naming a Company | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Arrays/30_Naming_a_Company.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/naming-a-company/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Two Pointers**
@@ -216,6 +218,11 @@
     - Partition Labels | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/25_Partition_Labels.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/partition-labels/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Check if a Parentheses String Can Be Valid | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/27_Check_Parentheses.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Valid Parenthesis String | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Greedy/26_Valid_Parenthesis_String.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/valid-parenthesis-string/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-
-
+    
+            
+- **Bit Manipulation**
+    - Sum of Two Integers | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/1_Sum_of_Two_Integers.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/sum-of-two-integers/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Reverse Integer | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/2_Reverse.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reverse-integer/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Bitwise XOR of All Pairings | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/3_BitWise_XOR_Pair.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+    - Largest Combination With Bitwise AND Greater Than Zero | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/4_Largest_Combination.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     
