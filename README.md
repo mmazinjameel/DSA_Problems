@@ -236,3 +236,7 @@
     - Longest Nice Subarray | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/13_Longest_Nice.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-nice-subarray/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Find the Longest Substring Containing Vowels in Even Counts | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/14_Find_Longest_Vowel_Even.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
     - Minimize XOR | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Bit Manipulation/15_Minimize_XOR.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimize-xor/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+- **Minimax**
+    - Stone Game II | <a href="https://github.com/mmazinjameel/DSA_Problems/blob/main/Minimax/1_Stone_Game_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/stone-game-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
